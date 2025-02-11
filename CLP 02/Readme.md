@@ -1,5 +1,6 @@
 Task 01:  List:Given a list of numbers, remove duplicates and sort in ascending order.
 ![Output](Screenshot/list_remove_duplicates_sort.py.png)
+
 Task 02: Set: Find the common elements between two lists using sets.
 
 Task 03: Tuple: Create a tuple of student records (name, age, grade) and sort by grade.
