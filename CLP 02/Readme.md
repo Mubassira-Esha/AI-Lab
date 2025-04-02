@@ -17,7 +17,7 @@ Task 06: NumPy#2: Create an array of 100 random values and normalize them betwee
 ![Output](Screenshot/6.numpy_normalize_values.py.png)
 
 Task 07: Pandas#1: Load a CSV file of sales data and compute total revenue per product.
-
+![Output](Screenshot/7.pandas_total_revenue.py.png)
 
 Task 08: Pandas#2: Fill missing values in a dataset with column-wise means.
 ![Output](Screenshot/8.pandas_fill_missing_values.py.png)
